@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: Although I am not as proficient in Java as I am in Python, I was able to follow the video and understand the though process behind the code. 
+
 
 ## License
 
