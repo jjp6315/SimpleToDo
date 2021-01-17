@@ -21,6 +21,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality! 
+* add color to interface
+* implement a authentication button when removing an item to prevent accidental deletion
 
 ## Video Walkthrough
 
